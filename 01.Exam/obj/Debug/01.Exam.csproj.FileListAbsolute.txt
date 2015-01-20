@@ -1,0 +1,6 @@
+D:\CSharp\Homeworks\ArrayExamples\01.Exam\bin\Debug\01.Exam.exe.config
+D:\CSharp\Homeworks\ArrayExamples\01.Exam\bin\Debug\01.Exam.exe
+D:\CSharp\Homeworks\ArrayExamples\01.Exam\bin\Debug\01.Exam.pdb
+D:\CSharp\Homeworks\ArrayExamples\01.Exam\obj\Debug\01.Exam.csprojResolveAssemblyReference.cache
+D:\CSharp\Homeworks\ArrayExamples\01.Exam\obj\Debug\01.Exam.exe
+D:\CSharp\Homeworks\ArrayExamples\01.Exam\obj\Debug\01.Exam.pdb
